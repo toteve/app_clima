@@ -1,0 +1,5 @@
+Esta aplicacion consta de:
+
+1. bundle.js con todos los js e integrado css
+2. html principal
+3. se genero con webpack
